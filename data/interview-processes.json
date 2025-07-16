@@ -1,0 +1,481 @@
+[
+  {
+    "candidateId": "9q8r7s6t-5u4v-3w2x-1y0z-9a8b7c6d5e4f",
+    "jobPostingId": "7dc52a43-1b6e-4c33-8c21-5d4f42a3d2e8",
+    "status": "in_progress",
+    "currentStage": 0,
+    "stages": [
+      {
+        "id": "4529240b-7408-4dcf-b434-6a0155390eec",
+        "name": "Initial Interview",
+        "type": "technical",
+        "order": 0,
+        "status": "pending"
+      }
+    ],
+    "createdAt": "2025-03-08T11:57:43.704Z",
+    "updatedAt": "2025-03-08T11:57:43.704Z",
+    "id": "f866f8f8-b24d-400f-93f8-93c72ef0a8ad"
+  },
+  {
+    "candidateId": "8f7e6d5c-4b3a-2d1e-9f8g-7h6i5j4k3l2m",
+    "jobPostingId": "9ef12b67-3d45-4f78-9abc-def01234567",
+    "status": "in_progress",
+    "currentStage": 0,
+    "stages": [
+      {
+        "id": "704f241a-cc9f-4cda-a2ec-dff36d9ba76f",
+        "name": "Initial Interview",
+        "type": "technical",
+        "order": 0,
+        "status": "pending"
+      }
+    ],
+    "createdAt": "2025-03-08T12:03:06.430Z",
+    "updatedAt": "2025-03-08T12:03:06.430Z",
+    "id": "434083a7-e93c-47b0-9d94-eac0ca0dcccf"
+  },
+  {
+    "candidateId": "9q8r7s6t-5u4v-3w2x-1y0z-9a8b7c6d5e4f",
+    "jobPostingId": "7dc52a43-1b6e-4c33-8c21-5d4f42a3d2e8",
+    "status": "in_progress",
+    "currentStage": 0,
+    "stages": [
+      {
+        "name": "Technical Interview",
+        "type": "technical",
+        "order": 0,
+        "status": "pending",
+        "id": "2f8664bf-da66-4a76-b1fb-fc02f74d77bb",
+        "questions": [
+          {
+            "id": "a5454ec8-606a-43c3-8956-0404e6192ca4",
+            "question": "Given your experience with React, TypeScript, Node.js, AWS, Docker, Kubernetes, MongoDB, GraphQL, how would you approach Senior Software Engineer related technical challenges?",
+            "category": "Technical Skills",
+            "expectedAnswer": "Looking for detailed technical knowledge and problem-solving approach"
+          },
+          {
+            "id": "24fb15e5-719c-4411-8046-891315d3d2f2",
+            "question": "Can you describe a challenging technical problem you solved in your previous role?",
+            "category": "Problem Solving",
+            "expectedAnswer": "Looking for structured problem-solving approach and technical depth"
+          }
+        ]
+      },
+      {
+        "name": "Behavioral Interview",
+        "type": "behavioral",
+        "order": 1,
+        "status": "pending",
+        "id": "1c7e6e3d-e879-4ef5-b849-9b71df0b27d9",
+        "questions": [
+          {
+            "id": "e597a818-b77d-4f5e-b96c-08d8017b3c54",
+            "question": "Tell me about a time when you had to work under pressure to meet a deadline.",
+            "category": "Time Management",
+            "expectedAnswer": "Looking for prioritization and stress management skills"
+          },
+          {
+            "id": "8f907e3c-d696-4668-b9ab-769df7bf820f",
+            "question": "How do you handle conflicts with team members?",
+            "category": "Teamwork",
+            "expectedAnswer": "Looking for conflict resolution and communication skills"
+          }
+        ]
+      },
+      {
+        "name": "Final Interview",
+        "type": "final",
+        "order": 2,
+        "status": "pending",
+        "id": "6b9d62a8-ba84-4ca5-94ed-01e3a224215e",
+        "questions": [
+          {
+            "id": "dea70112-4095-45e9-8c7e-737bf2ffe5e3",
+            "question": "Where do you see yourself in 5 years?",
+            "category": "Career Goals",
+            "expectedAnswer": "Looking for alignment between personal goals and company growth"
+          },
+          {
+            "id": "5cefca23-95cd-4b5f-9454-624ee1e31f9b",
+            "question": "What questions do you have about the role or company?",
+            "category": "Engagement",
+            "expectedAnswer": "Looking for genuine interest and preparation"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-03-08T12:21:42.553Z",
+    "updatedAt": "2025-03-08T12:21:42.553Z",
+    "generateQuestionsForStages": [
+      "2f8664bf-da66-4a76-b1fb-fc02f74d77bb",
+      "1c7e6e3d-e879-4ef5-b849-9b71df0b27d9",
+      "6b9d62a8-ba84-4ca5-94ed-01e3a224215e"
+    ],
+    "id": "db6375d3-d861-425a-bb7b-5b9b201e5f81"
+  },
+  {
+    "candidateId": "9q8r7s6t-5u4v-3w2x-1y0z-9a8b7c6d5e4f",
+    "jobPostingId": "7dc52a43-1b6e-4c33-8c21-5d4f42a3d2e8",
+    "status": "in_progress",
+    "currentStage": 0,
+    "stages": [
+      {
+        "name": "Technical Interview",
+        "type": "technical",
+        "order": 0,
+        "status": "pending",
+        "id": "006caf08-fa1c-453f-a151-179784a0e2d6"
+      },
+      {
+        "name": "Behavioral Interview",
+        "type": "behavioral",
+        "order": 1,
+        "status": "pending",
+        "id": "71db5902-9c47-40c1-bf8a-ac961bc17400"
+      },
+      {
+        "name": "Final Interview",
+        "type": "final",
+        "order": 2,
+        "status": "pending",
+        "id": "406a8a3b-3706-41bd-8f0e-ced707d0d28c"
+      }
+    ],
+    "createdAt": "2025-03-08T12:21:49.581Z",
+    "updatedAt": "2025-03-08T12:21:49.581Z",
+    "generateQuestionsForStages": [],
+    "id": "3accd5be-aa0f-4097-88b8-16dafb64e883"
+  },
+  {
+    "candidateId": "5d4e3f2g-1h0i-9j8k-7l6m-5n4o3p2q1r0s",
+    "jobPostingId": "2fb45c78-9a12-4d56-8ef9-0abc12345678",
+    "status": "in_progress",
+    "currentStage": 0,
+    "stages": [
+      {
+        "name": "Technical Interview",
+        "type": "technical",
+        "order": 0,
+        "status": "pending",
+        "id": "4e42ce8a-f369-4c48-9bad-fd40821f29ec",
+        "questions": [
+          {
+            "id": "7651132f-c85d-4f4d-b8e0-29fe8d6dc29c",
+            "question": "Given your experience with SAP, Inventory Management, Demand Planning, Excel, Warehouse Operations, Supplier Relations, KPI Tracking, how would you approach Supply Chain Coordinator related technical challenges?",
+            "category": "Technical Skills",
+            "expectedAnswer": "Looking for detailed technical knowledge and problem-solving approach"
+          },
+          {
+            "id": "2b4bf252-2399-422a-a5d1-5a1a02062a7b",
+            "question": "Can you describe a challenging technical problem you solved in your previous role?",
+            "category": "Problem Solving",
+            "expectedAnswer": "Looking for structured problem-solving approach and technical depth"
+          }
+        ]
+      },
+      {
+        "name": "Behavioral Interview",
+        "type": "behavioral",
+        "order": 1,
+        "status": "pending",
+        "id": "2f9179d7-6a83-46a9-b82d-88436a325c23",
+        "questions": [
+          {
+            "id": "afd80684-3309-4f17-ab86-92279dad677d",
+            "question": "Tell me about a time when you had to work under pressure to meet a deadline.",
+            "category": "Time Management",
+            "expectedAnswer": "Looking for prioritization and stress management skills"
+          },
+          {
+            "id": "27801f8c-a66a-40be-9bec-78bc9bb8b939",
+            "question": "How do you handle conflicts with team members?",
+            "category": "Teamwork",
+            "expectedAnswer": "Looking for conflict resolution and communication skills"
+          }
+        ]
+      },
+      {
+        "name": "Final Interview",
+        "type": "final",
+        "order": 2,
+        "status": "pending",
+        "id": "593c5ed7-8b9b-4e02-81ba-187793c0d675",
+        "questions": [
+          {
+            "id": "08e2856e-9c10-4242-aeba-16ecad5fa1c9",
+            "question": "Where do you see yourself in 5 years?",
+            "category": "Career Goals",
+            "expectedAnswer": "Looking for alignment between personal goals and company growth"
+          },
+          {
+            "id": "8d54367a-71d3-442c-880b-a64f14ac7d17",
+            "question": "What questions do you have about the role or company?",
+            "category": "Engagement",
+            "expectedAnswer": "Looking for genuine interest and preparation"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-03-08T12:22:22.554Z",
+    "updatedAt": "2025-03-08T12:22:22.554Z",
+    "generateQuestionsForStages": [
+      "4e42ce8a-f369-4c48-9bad-fd40821f29ec",
+      "2f9179d7-6a83-46a9-b82d-88436a325c23",
+      "593c5ed7-8b9b-4e02-81ba-187793c0d675"
+    ],
+    "id": "7de99470-33ef-4ed3-859c-20559221207b"
+  },
+  {
+    "candidateId": "5d4e3f2g-1h0i-9j8k-7l6m-5n4o3p2q1r0s",
+    "jobPostingId": "2fb45c78-9a12-4d56-8ef9-0abc12345678",
+    "status": "in_progress",
+    "currentStage": 0,
+    "stages": [
+      {
+        "name": "Technical Interview",
+        "type": "technical",
+        "order": 0,
+        "status": "pending",
+        "id": "5cb2ae5c-e86b-473f-86c5-55cc0baa925e"
+      },
+      {
+        "name": "Behavioral Interview",
+        "type": "behavioral",
+        "order": 1,
+        "status": "pending",
+        "id": "dbb438e4-a50f-4080-9768-d59aeaace35a"
+      },
+      {
+        "name": "Final Interview",
+        "type": "final",
+        "order": 2,
+        "status": "pending",
+        "id": "23f3d1b1-e2fe-4466-a1e9-d77de0355327"
+      }
+    ],
+    "createdAt": "2025-03-08T12:22:28.046Z",
+    "updatedAt": "2025-03-08T12:22:28.046Z",
+    "generateQuestionsForStages": [],
+    "id": "429e2fd8-56fa-44cf-94ef-aaac2d8aeb64"
+  },
+  {
+    "candidateId": "9q8r7s6t-5u4v-3w2x-1y0z-9a8b7c6d5e4f",
+    "jobPostingId": "7dc52a43-1b6e-4c33-8c21-5d4f42a3d2e8",
+    "status": "in_progress",
+    "currentStage": 0,
+    "stages": [
+      {
+        "name": "Technical Interview",
+        "type": "technical",
+        "order": 0,
+        "status": "pending",
+        "id": "8c17c123-7c26-41b8-b339-06cf6f951501",
+        "questions": [
+          {
+            "id": "3a0665dd-2e8e-4241-bad0-57f9184389ef",
+            "question": "Given your experience with React, TypeScript, Node.js, AWS, Docker, Kubernetes, MongoDB, GraphQL, how would you approach Senior Software Engineer related technical challenges?",
+            "category": "Technical Skills",
+            "expectedAnswer": "Looking for detailed technical knowledge and problem-solving approach"
+          },
+          {
+            "id": "039c601d-954e-491f-a29a-9ab836c08366",
+            "question": "Can you describe a challenging technical problem you solved in your previous role?",
+            "category": "Problem Solving",
+            "expectedAnswer": "Looking for structured problem-solving approach and technical depth"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-03-08T13:26:22.843Z",
+    "updatedAt": "2025-03-08T13:26:22.843Z",
+    "generateQuestionsForStages": [
+      "8c17c123-7c26-41b8-b339-06cf6f951501"
+    ],
+    "id": "0c954c80-37c3-42cb-b165-f565f5c8da86"
+  },
+  {
+    "candidateId": "9q8r7s6t-5u4v-3w2x-1y0z-9a8b7c6d5e4f",
+    "jobPostingId": "7dc52a43-1b6e-4c33-8c21-5d4f42a3d2e8",
+    "status": "in_progress",
+    "currentStage": 0,
+    "stages": [
+      {
+        "name": "Technical Interview",
+        "type": "technical",
+        "order": 0,
+        "status": "pending",
+        "id": "aabf7b71-fca4-4337-8852-3523d4c8de60",
+        "questions": [
+          {
+            "id": "565dd6d1-5f98-4413-8de0-9b79f5516f05",
+            "question": "Given your experience with React, TypeScript, Node.js, AWS, Docker, Kubernetes, MongoDB, GraphQL, how would you approach Senior Software Engineer related technical challenges?",
+            "category": "Technical Skills",
+            "expectedAnswer": "Looking for detailed technical knowledge and problem-solving approach"
+          },
+          {
+            "id": "e8c9ecb8-e746-49bf-ab69-81032ad67e90",
+            "question": "Can you describe a challenging technical problem you solved in your previous role?",
+            "category": "Problem Solving",
+            "expectedAnswer": "Looking for structured problem-solving approach and technical depth"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-03-08T13:34:58.971Z",
+    "updatedAt": "2025-03-08T13:34:58.971Z",
+    "generateQuestionsForStages": [
+      "aabf7b71-fca4-4337-8852-3523d4c8de60"
+    ],
+    "id": "d679355f-e6c4-4fd3-91f8-5d9ec96802c6"
+  },
+  {
+    "candidateId": "9q8r7s6t-5u4v-3w2x-1y0z-9a8b7c6d5e4f",
+    "jobPostingId": "7dc52a43-1b6e-4c33-8c21-5d4f42a3d2e8",
+    "status": "in_progress",
+    "currentStage": 0,
+    "stages": [
+      {
+        "name": "Technical Interview",
+        "type": "technical",
+        "order": 0,
+        "status": "pending",
+        "id": "9811d50e-163b-4d00-a650-56ad521d85c8",
+        "questions": [
+          {
+            "id": "23e0b8d7-1cf5-4206-afd0-3627da6d050d",
+            "question": "Given your experience with React, TypeScript, Node.js, AWS, Docker, Kubernetes, MongoDB, GraphQL, how would you approach Senior Software Engineer related technical challenges?",
+            "category": "Technical Skills",
+            "expectedAnswer": "Looking for detailed technical knowledge and problem-solving approach"
+          },
+          {
+            "id": "8526a1bb-01f8-4473-8c5d-73a74eb71e58",
+            "question": "Can you describe a challenging technical problem you solved in your previous role?",
+            "category": "Problem Solving",
+            "expectedAnswer": "Looking for structured problem-solving approach and technical depth"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-03-08T13:35:16.828Z",
+    "updatedAt": "2025-03-08T13:35:16.828Z",
+    "generateQuestionsForStages": [
+      "9811d50e-163b-4d00-a650-56ad521d85c8"
+    ],
+    "id": "8e2a8459-f266-4c02-aab2-ea12d0d50043"
+  },
+  {
+    "candidateId": "9q8r7s6t-5u4v-3w2x-1y0z-9a8b7c6d5e4f",
+    "jobPostingId": "7dc52a43-1b6e-4c33-8c21-5d4f42a3d2e8",
+    "status": "in_progress",
+    "currentStage": 0,
+    "stages": [
+      {
+        "name": "Technical Interview",
+        "type": "technical",
+        "order": 0,
+        "status": "pending",
+        "id": "f18652e8-f97d-4b6c-b45e-55e13fac1063",
+        "questions": [
+          {
+            "id": "ee5d1d4c-d65e-4444-9d7b-13d1b854957a",
+            "question": "Given your experience with React, TypeScript, Node.js, AWS, Docker, Kubernetes, MongoDB, GraphQL, how would you approach Senior Software Engineer related technical challenges?",
+            "category": "Technical Skills",
+            "expectedAnswer": "Looking for detailed technical knowledge and problem-solving approach"
+          },
+          {
+            "id": "c08de23b-ba51-4799-82e9-e9832d7136e4",
+            "question": "Can you describe a challenging technical problem you solved in your previous role?",
+            "category": "Problem Solving",
+            "expectedAnswer": "Looking for structured problem-solving approach and technical depth"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-03-08T14:35:07.492Z",
+    "updatedAt": "2025-03-08T14:35:07.492Z",
+    "generateQuestionsForStages": [
+      "f18652e8-f97d-4b6c-b45e-55e13fac1063"
+    ],
+    "id": "b6a73f8f-b5a9-4b08-9b22-8dcd6a6ab19c"
+  },
+  {
+    "candidateId": "8f7e6d5c-4b3a-2d1e-9f8g-7h6i5j4k3l2m",
+    "jobPostingId": "9ef12b67-3d45-4f78-9abc-def01234567",
+    "status": "in_progress",
+    "currentStage": 0,
+    "stages": [
+      {
+        "name": "Technical Interview",
+        "type": "technical",
+        "order": 0,
+        "status": "pending",
+        "id": "5d7dbce0-8f2b-470a-b5b0-09f2d3b29890",
+        "questions": [
+          {
+            "id": "58f12b7a-8fcc-408f-96f5-53f3cbd3a9ae",
+            "question": "Given your experience with Team Leadership, P&L Management, Inventory Control, Staff Training, Customer Service, Retail Operations, Food Safety, MS Office, how would you approach Store Manager related technical challenges?",
+            "category": "Technical Skills",
+            "expectedAnswer": "Looking for detailed technical knowledge and problem-solving approach"
+          },
+          {
+            "id": "cd7f7991-e25c-443d-be31-41b0ded75878",
+            "question": "Can you describe a challenging technical problem you solved in your previous role?",
+            "category": "Problem Solving",
+            "expectedAnswer": "Looking for structured problem-solving approach and technical depth"
+          }
+        ]
+      },
+      {
+        "name": "Behavioral Interview",
+        "type": "behavioral",
+        "order": 1,
+        "status": "pending",
+        "id": "b8f64fa2-e871-42e9-a5fa-cadc61f2c4cf",
+        "questions": [
+          {
+            "id": "0f0e2a82-3b63-44dc-b4d3-cd00248420b3",
+            "question": "Tell me about a time when you had to work under pressure to meet a deadline.",
+            "category": "Time Management",
+            "expectedAnswer": "Looking for prioritization and stress management skills"
+          },
+          {
+            "id": "a9827e7b-e5a7-48aa-a7db-50303db7dbcc",
+            "question": "How do you handle conflicts with team members?",
+            "category": "Teamwork",
+            "expectedAnswer": "Looking for conflict resolution and communication skills"
+          }
+        ]
+      },
+      {
+        "name": "Final Interview",
+        "type": "final",
+        "order": 2,
+        "status": "pending",
+        "id": "f4465756-734e-47c2-b5cc-801e629a3f88",
+        "questions": [
+          {
+            "id": "02ac3711-b6c2-4a15-a9e2-9e49e7d5ecbf",
+            "question": "Where do you see yourself in 5 years?",
+            "category": "Career Goals",
+            "expectedAnswer": "Looking for alignment between personal goals and company growth"
+          },
+          {
+            "id": "0dffbb3a-7e3c-421b-adb3-717651cecc67",
+            "question": "What questions do you have about the role or company?",
+            "category": "Engagement",
+            "expectedAnswer": "Looking for genuine interest and preparation"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-03-08T15:43:17.489Z",
+    "updatedAt": "2025-03-08T15:43:17.489Z",
+    "generateQuestionsForStages": [
+      "5d7dbce0-8f2b-470a-b5b0-09f2d3b29890",
+      "b8f64fa2-e871-42e9-a5fa-cadc61f2c4cf",
+      "f4465756-734e-47c2-b5cc-801e629a3f88"
+    ],
+    "id": "89d44c1d-4844-4ec3-86d4-ae093c4b9189"
+  }
+]

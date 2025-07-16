@@ -1,0 +1,333 @@
+[
+  {
+    "name": "JASPER WALSH",
+    "email": "j.walsh@email.com",
+    "phone": "(123) 456-7890",
+    "location": "Pawtucket, RI",
+    "position": "Baker",
+    "status": "offered",
+    "matchScore": 86,
+    "experience": [
+      {
+        "company": "Wildflour Vegan Bakery",
+        "position": "Baker",
+        "startDate": "2020",
+        "endDate": "Present",
+        "description": "Produced an average of 342 baked items per week, maintaining a high quality of freshness and a steady 7.3% annual growth in overall sales. Monitored all baking equipment performance with WebstaurantStore, lowering equipment downtime instances by 21% through proactive maintenance schedules. Managed bakery finances and payroll for a team of 7 using QuickBooks. Used KitchenAid mixers for doughs, batters, and icings, helping new bakers prepare cakes 13 minutes faster."
+      },
+      {
+        "company": "Au Bon Pain",
+        "position": "Assistant Baker",
+        "startDate": "2019",
+        "endDate": "2020",
+        "description": "Assisted the senior baker in producing 78 pastry items daily, ensuring the restaurant received an average of 4.6 rating for its baked food section. Checked baking temperatures on all foods with precision, ensuring all prepared food was of optimal temperature throughout tenure. Helped in decorating custom cake orders using Cake Boss software, encouraging local residents to order custom cakes and increasing overall monthly revenue by 5.8%. Adapted to baking techniques taught by the senior baker to accommodate special dietary requests, such as gluten-free and vegan options."
+      },
+      {
+        "company": "Whole Foods Market",
+        "position": "Kitchen Helper",
+        "startDate": "2017",
+        "endDate": "2018",
+        "description": "Contributed to the preparation and packing of organic daily meals, serving an average of 293 supermarket customers daily with exceptional service and quality. Implemented organizing principles learned from Coursera in the storeroom, improving space utilization by 29%. Reduced production expenses by 3% through the negotiation of bulk orders with local vendors. Promoted the idea of having a food labeling system based on the Paprika app's inventory feature, helping the team reduce misplacement and spoilage events by 14%."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Johnson & Wales University",
+        "degree": "Associate's Degree",
+        "field": "Baking and Pastry Arts",
+        "graduationDate": "2019"
+      }
+    ],
+    "skills": [
+      "ChefTap",
+      "Paprika",
+      "Digital Thermometers",
+      "WebstaurantStore",
+      "Cake Boss",
+      "QuickBooks",
+      "KitchenAid",
+      "Coursera"
+    ],
+    "languages": [],
+    "certifications": [],
+    "notes": "",
+    "createdAt": "2025-03-07T09:52:41.715Z",
+    "updatedAt": "2025-03-08T11:30:49.032Z",
+    "id": "d95b58f8-bf29-4fdd-8426-256f66870c97"
+  },
+  {
+    "name": "SARAH CHEN",
+    "email": "sarah.chen@email.com",
+    "phone": "+44 20 7123 4567",
+    "location": "London",
+    "position": "Store Manager",
+    "status": "new",
+    "matchScore": 92,
+    "experience": [
+      {
+        "company": "Tesco Express",
+        "position": "Assistant Store Manager",
+        "startDate": "2021",
+        "endDate": "Present",
+        "description": "Led a team of 25 staff members across multiple departments, achieving 15% increase in customer satisfaction scores. Implemented new inventory management system reducing shrinkage by 23%. Managed store P&L with annual revenue of £2.5M."
+      },
+      {
+        "company": "Marks & Spencer",
+        "position": "Department Manager",
+        "startDate": "2018",
+        "endDate": "2021",
+        "description": "Supervised food hall operations with team of 12 staff. Increased department sales by 18% through effective merchandising and promotion strategies. Maintained 99.8% compliance with food safety regulations."
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Manchester",
+        "degree": "Bachelor's Degree",
+        "field": "Business Management",
+        "graduationDate": "2018"
+      }
+    ],
+    "skills": [
+      "Team Leadership",
+      "P&L Management",
+      "Inventory Control",
+      "Staff Training",
+      "Customer Service",
+      "Retail Operations",
+      "Food Safety",
+      "MS Office"
+    ],
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "certifications": [
+      "Level 4 Food Safety",
+      "Retail Management Certification"
+    ],
+    "notes": "",
+    "createdAt": "2025-03-07T10:00:00.000Z",
+    "updatedAt": "2025-03-07T10:00:00.000Z",
+    "id": "8f7e6d5c-4b3a-2d1e-9f8g-7h6i5j4k3l2m"
+  },
+  {
+    "name": "MICHAEL SCHMIDT",
+    "email": "m.schmidt@email.com",
+    "phone": "+49 30 1234 5678",
+    "location": "Berlin",
+    "position": "Data Analyst",
+    "status": "rejected",
+    "matchScore": 88,
+    "experience": [
+      {
+        "company": "Zalando",
+        "position": "Junior Data Analyst",
+        "startDate": "2022",
+        "endDate": "Present",
+        "description": "Developed and maintained dashboards using Power BI for e-commerce metrics. Wrote complex SQL queries to analyze customer behavior patterns. Implemented A/B testing framework increasing conversion rates by 12%."
+      },
+      {
+        "company": "Delivery Hero",
+        "position": "Business Intelligence Intern",
+        "startDate": "2021",
+        "endDate": "2022",
+        "description": "Assisted in creating automated reporting systems using Python and SQL. Analyzed delivery time data to optimize route planning, reducing average delivery time by 8%."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Technical University of Berlin",
+        "degree": "Master's Degree",
+        "field": "Business Analytics",
+        "graduationDate": "2021"
+      }
+    ],
+    "skills": [
+      "SQL",
+      "Python",
+      "Power BI",
+      "Tableau",
+      "Data Visualization",
+      "Statistical Analysis",
+      "Excel",
+      "Git"
+    ],
+    "languages": [
+      "German",
+      "English"
+    ],
+    "certifications": [
+      "Google Analytics Certification",
+      "Microsoft Power BI Certification"
+    ],
+    "notes": "",
+    "createdAt": "2025-03-07T10:15:00.000Z",
+    "updatedAt": "2025-03-08T11:31:16.890Z",
+    "id": "2a3b4c5d-6e7f-8g9h-0i1j-2k3l4m5n6o7p"
+  },
+  {
+    "name": "EMILY PARKER",
+    "email": "emily.p@email.com",
+    "phone": "+1 415-555-0123",
+    "location": "San Francisco, CA",
+    "position": "Senior Software Engineer",
+    "status": "new",
+    "matchScore": 94,
+    "experience": [
+      {
+        "company": "Airbnb",
+        "position": "Software Engineer",
+        "startDate": "2020",
+        "endDate": "Present",
+        "description": "Led development of microservices architecture using Node.js and TypeScript. Implemented CI/CD pipelines reducing deployment time by 40%. Mentored junior developers and conducted code reviews."
+      },
+      {
+        "company": "Uber",
+        "position": "Full Stack Engineer",
+        "startDate": "2018",
+        "endDate": "2020",
+        "description": "Developed and maintained React-based dashboard for driver analytics. Implemented real-time data processing using AWS Lambda and DynamoDB. Improved application performance by 35%."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Stanford University",
+        "degree": "Bachelor's Degree",
+        "field": "Computer Science",
+        "graduationDate": "2018"
+      }
+    ],
+    "skills": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "MongoDB",
+      "GraphQL"
+    ],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "certifications": [
+      "AWS Solutions Architect",
+      "Google Cloud Professional Developer"
+    ],
+    "notes": "",
+    "createdAt": "2025-03-07T10:30:00.000Z",
+    "updatedAt": "2025-03-07T10:30:00.000Z",
+    "id": "9q8r7s6t-5u4v-3w2x-1y0z-9a8b7c6d5e4f"
+  },
+  {
+    "name": "LIM WEI MING",
+    "email": "weiming.lim@email.com",
+    "phone": "+65 8123 4567",
+    "location": "Singapore",
+    "position": "Supply Chain Coordinator",
+    "status": "new",
+    "matchScore": 85,
+    "experience": [
+      {
+        "company": "FairPrice",
+        "position": "Inventory Specialist",
+        "startDate": "2023",
+        "endDate": "Present",
+        "description": "Managed inventory for 15 retail locations using SAP. Reduced stockouts by 25% through improved forecasting. Coordinated with suppliers to optimize delivery schedules."
+      },
+      {
+        "company": "Lazada",
+        "position": "Operations Assistant",
+        "startDate": "2022",
+        "endDate": "2023",
+        "description": "Assisted in warehouse operations and last-mile delivery coordination. Implemented new tracking system reducing misplaced items by 30%."
+      }
+    ],
+    "education": [
+      {
+        "institution": "National University of Singapore",
+        "degree": "Bachelor's Degree",
+        "field": "Supply Chain Management",
+        "graduationDate": "2022"
+      }
+    ],
+    "skills": [
+      "SAP",
+      "Inventory Management",
+      "Demand Planning",
+      "Excel",
+      "Warehouse Operations",
+      "Supplier Relations",
+      "KPI Tracking"
+    ],
+    "languages": [
+      "English",
+      "Mandarin",
+      "Malay"
+    ],
+    "certifications": [
+      "APICS CSCP (in progress)"
+    ],
+    "notes": "",
+    "createdAt": "2025-03-07T10:45:00.000Z",
+    "updatedAt": "2025-03-07T10:45:00.000Z",
+    "id": "5d4e3f2g-1h0i-9j8k-7l6m-5n4o3p2q1r0s"
+  },
+  {
+    "name": "JASPER WALSH",
+    "email": "j.walsh@email.com",
+    "phone": "(123) 456-7890",
+    "location": "Pawtucket, RI",
+    "position": "Baker",
+    "status": "new",
+    "matchScore": 86,
+    "experience": [
+      {
+        "company": "Wildflour Vegan Bakery",
+        "position": "Baker",
+        "startDate": "2020",
+        "endDate": "Present",
+        "description": "Produced an average of 342 baked items per week, maintaining a high quality of freshness and a steady 7.3% annual growth in overall sales. Monitored all baking equipment performance with WebstaurantStore, lowering equipment downtime instances by 21% through proactive maintenance schedules. Managed bakery finances and payroll for a team of 7 using QuickBooks. Used KitchenAid mixers for doughs, batters, and icings, helping new bakers prepare cakes 13 minutes faster."
+      },
+      {
+        "company": "Au Bon Pain",
+        "position": "Assistant Baker",
+        "startDate": "2019",
+        "endDate": "2020",
+        "description": "Assisted the senior baker in producing 78 pastry items daily, ensuring the restaurant received an average of 4.6 rating for its baked food section. Checked baking temperatures on all foods with precision, ensuring all prepared food was of optimal temperature throughout tenure. Helped in decorating custom cake orders using Cake Boss software, encouraging local residents to order custom cakes and increasing overall monthly revenue by 5.8%. Adapted to baking techniques taught by the senior baker to accommodate special dietary requests, such as gluten-free and vegan options."
+      },
+      {
+        "company": "Whole Foods Market",
+        "position": "Kitchen Helper",
+        "startDate": "2017",
+        "endDate": "2018",
+        "description": "Contributed to the preparation and packing of organic daily meals, serving an average of 293 supermarket customers daily with exceptional service and quality. Implemented organizing principles learned from Coursera in the storeroom, improving space utilization by 29%. Reduced production expenses by 3% through the negotiation of bulk orders with local vendors. Promoted the idea of having a food labeling system based on the Paprika app's inventory feature, helping the team reduce misplacement and spoilage events by 14%."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Johnson & Wales University",
+        "degree": "Associate's Degree",
+        "field": "Baking and Pastry Arts",
+        "graduationDate": "2019"
+      }
+    ],
+    "skills": [
+      "ChefTap",
+      "Paprika",
+      "Digital Thermometers",
+      "WebstaurantStore",
+      "Cake Boss",
+      "QuickBooks",
+      "KitchenAid",
+      "Coursera"
+    ],
+    "languages": [],
+    "certifications": [],
+    "notes": "",
+    "createdAt": "2025-03-13T08:46:40.554Z",
+    "updatedAt": "2025-03-13T08:46:40.554Z",
+    "id": "a5b68f3b-dac8-40fd-8d64-b19e5ff9bf80"
+  }
+]

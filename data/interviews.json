@@ -1,0 +1,74 @@
+[
+  {
+    "candidateId": "9q8r7s6t-5u4v-3w2x-1y0z-9a8b7c6d5e4f",
+    "jobPostingId": "7dc52a43-1b6e-4c33-8c21-5d4f42a3d2e8",
+    "processId": "b6a73f8f-b5a9-4b08-9b22-8dcd6a6ab19c",
+    "stage": {
+      "name": "Technical Interview",
+      "type": "technical",
+      "order": 0,
+      "status": "pending",
+      "id": "f18652e8-f97d-4b6c-b45e-55e13fac1063",
+      "questions": [
+        {
+          "id": "ee5d1d4c-d65e-4444-9d7b-13d1b854957a",
+          "question": "Given your experience with React, TypeScript, Node.js, AWS, Docker, Kubernetes, MongoDB, GraphQL, how would you approach Senior Software Engineer related technical challenges?",
+          "category": "Technical Skills",
+          "expectedAnswer": "Looking for detailed technical knowledge and problem-solving approach"
+        },
+        {
+          "id": "c08de23b-ba51-4799-82e9-e9832d7136e4",
+          "question": "Can you describe a challenging technical problem you solved in your previous role?",
+          "category": "Problem Solving",
+          "expectedAnswer": "Looking for structured problem-solving approach and technical depth"
+        }
+      ]
+    },
+    "status": "scheduled",
+    "scheduledDate": "2025-03-08T14:35:07.508Z",
+    "interviewer": {
+      "name": "TBD",
+      "email": "tbd@example.com",
+      "role": "Interviewer"
+    },
+    "createdAt": "2025-03-08T14:35:07.508Z",
+    "updatedAt": "2025-03-08T14:35:07.508Z",
+    "id": "7d885ccc-30b3-497d-bb31-891c945dc41d"
+  },
+  {
+    "candidateId": "8f7e6d5c-4b3a-2d1e-9f8g-7h6i5j4k3l2m",
+    "jobPostingId": "9ef12b67-3d45-4f78-9abc-def01234567",
+    "processId": "89d44c1d-4844-4ec3-86d4-ae093c4b9189",
+    "stage": {
+      "name": "Technical Interview",
+      "type": "technical",
+      "order": 0,
+      "status": "pending",
+      "id": "5d7dbce0-8f2b-470a-b5b0-09f2d3b29890",
+      "questions": [
+        {
+          "id": "58f12b7a-8fcc-408f-96f5-53f3cbd3a9ae",
+          "question": "Given your experience with Team Leadership, P&L Management, Inventory Control, Staff Training, Customer Service, Retail Operations, Food Safety, MS Office, how would you approach Store Manager related technical challenges?",
+          "category": "Technical Skills",
+          "expectedAnswer": "Looking for detailed technical knowledge and problem-solving approach"
+        },
+        {
+          "id": "cd7f7991-e25c-443d-be31-41b0ded75878",
+          "question": "Can you describe a challenging technical problem you solved in your previous role?",
+          "category": "Problem Solving",
+          "expectedAnswer": "Looking for structured problem-solving approach and technical depth"
+        }
+      ]
+    },
+    "status": "scheduled",
+    "scheduledDate": "2025-03-08T15:43:17.505Z",
+    "interviewer": {
+      "name": "TBD",
+      "email": "tbd@example.com",
+      "role": "Interviewer"
+    },
+    "createdAt": "2025-03-08T15:43:17.505Z",
+    "updatedAt": "2025-03-08T15:43:17.505Z",
+    "id": "20a04e7c-19b4-4a84-bac3-88a9b2c294a4"
+  }
+]

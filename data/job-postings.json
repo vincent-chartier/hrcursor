@@ -1,0 +1,171 @@
+[
+  {
+    "title": "Baker",
+    "department": "Bakery",
+    "location": "Paris",
+    "status": "published",
+    "employmentType": "full-time",
+    "shift": "day",
+    "salary": {
+      "min": 35000,
+      "max": 45000,
+      "currency": "EUR"
+    },
+    "experience": "entry",
+    "storeType": "hypermarket",
+    "physicalRequirements": [
+      "Standing for extended periods (up to 8 hours)",
+      "Lifting up to 15 kg",
+      "Working in warm environment"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Paid time off",
+      "Employee discount",
+      "Professional training"
+    ],
+    "description": "We are seeking a passionate Baker to join our team in Paris. The ideal candidate will have a strong interest in artisanal baking and be willing to learn French baking techniques. French language proficiency is required.",
+    "id": "4ba2c981-9a8d-438a-ac1b-1d0cfcdef70d"
+  },
+  {
+    "title": "Senior Software Engineer",
+    "department": "Stock",
+    "location": "Remote",
+    "status": "closed",
+    "description": "Looking for a Senior Software Engineer with strong experience in React, TypeScript, and Node.js. Must have experience with cloud platforms (AWS/Azure/GCP) and microservices architecture.",
+    "employmentType": "full-time",
+    "shift": "flexible",
+    "salary": {
+      "min": 120000,
+      "max": 180000,
+      "currency": "USD"
+    },
+    "experience": "senior",
+    "storeType": "corporate",
+    "physicalRequirements": [],
+    "benefits": [
+      "Health, dental, and vision insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Home office stipend",
+      "Professional development budget"
+    ],
+    "id": "7dc52a43-1b6e-4c33-8c21-5d4f42a3d2e8"
+  },
+  {
+    "title": "Store Manager",
+    "department": "Retail Operations",
+    "location": "London",
+    "status": "published",
+    "employmentType": "full-time",
+    "shift": "rotating",
+    "salary": {
+      "min": 45000,
+      "max": 60000,
+      "currency": "GBP"
+    },
+    "experience": "mid",
+    "storeType": "supermarket",
+    "physicalRequirements": [
+      "Standing and walking throughout shift",
+      "Occasional lifting up to 10 kg"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Performance bonuses",
+      "Employee discount",
+      "Career development opportunities"
+    ],
+    "description": "We're seeking an experienced Store Manager to lead our London location. The ideal candidate will have proven retail management experience and strong leadership skills.",
+    "id": "9ef12b67-3d45-4f78-9abc-def01234567"
+  },
+  {
+    "title": "Data Analyst",
+    "department": "Business Intelligence",
+    "location": "Berlin",
+    "status": "published",
+    "employmentType": "full-time",
+    "shift": "day",
+    "salary": {
+      "min": 45000,
+      "max": 65000,
+      "currency": "EUR"
+    },
+    "experience": "mid",
+    "storeType": "corporate",
+    "physicalRequirements": [],
+    "benefits": [
+      "Health insurance",
+      "30 days annual leave",
+      "Public transport subsidy",
+      "Flexible working hours"
+    ],
+    "description": "Seeking a Data Analyst to join our BI team in Berlin. Strong SQL skills and experience with visualization tools (Tableau/Power BI) required. German language skills are a plus.",
+    "id": "5ca31d89-4b12-4e56-8def-9abc12345678"
+  },
+  {
+    "title": "Supply Chain Coordinator",
+    "department": "Logistics",
+    "location": "Singapore",
+    "status": "published",
+    "employmentType": "full-time",
+    "shift": "day",
+    "salary": {
+      "min": 4000,
+      "max": 6000,
+      "currency": "SGD"
+    },
+    "experience": "entry",
+    "storeType": "distribution",
+    "physicalRequirements": [
+      "Office environment",
+      "Occasional warehouse visits"
+    ],
+    "benefits": [
+      "Health insurance",
+      "13th month bonus",
+      "Professional certifications",
+      "Team building events"
+    ],
+    "description": "Join our logistics team as a Supply Chain Coordinator. You'll help optimize our supply chain operations across Asia-Pacific. Experience with ERP systems is a plus.",
+    "id": "2fb45c78-9a12-4d56-8ef9-0abc12345678"
+  },
+  {
+    "title": "Butcher",
+    "department": "Butcher",
+    "location": "Vannes",
+    "status": "published",
+    "description": "## Butcher - Hypermarket (Vannes)\n\n**Join our dynamic team at [Hypermarket Name] in Vannes!**\n\nWe are seeking an enthusiastic and motivated entry-level Butcher to join our bustling Butcher department.  This is a fantastic opportunity to develop your skills in a fast-paced, customer-focused environment.  Working daytime hours, you’ll play a key role in providing our customers with high-quality meat products and exceptional service.\n\n**Overview:**\n\nAs a Butcher, you will be responsible for preparing and displaying a wide variety of meat cuts to meet our customers' needs.  You'll work closely with the butcher team to ensure consistent quality, maintain a clean and organized workspace, and provide friendly, helpful service to our valued customers.\n\n**Key Responsibilities:**\n\n* Receive and store meat deliveries, ensuring proper storage and rotation.\n* Prepare various cuts of meat, including trimming, boning, grinding, and slicing, following established procedures and hygiene standards.\n* Weigh, package, and label meat products accurately and attractively for display.\n* Maintain a clean and organized work area, adhering to all food safety regulations.\n* Provide excellent customer service, answering questions about different cuts of meat and offering recommendations.\n* Assist with inventory management and stock rotation.\n* Operate and maintain butcher equipment, including meat grinders, slicers, and saws.\n* Adhere to all company policies and procedures, including health and safety regulations.\n\n**Required Qualifications:**\n\n* A passion for food and a desire to learn the butcher trade.\n* Entry-level experience in a food handling environment is preferred, but not essential.  Full training will be provided.\n* Strong work ethic and a positive, can-do attitude.\n* Ability to work effectively as part of a team.\n* Excellent communication and interpersonal skills.\n* Commitment to maintaining high standards of hygiene and food safety.\n* Basic math and reading skills.\n\n**Physical Requirements:**\n\n* Ability to stand for extended periods.\n* Ability to lift and carry up to 50 pounds.\n* Ability to work in a cold environment.\n* Manual dexterity and hand-eye coordination.\n\n**Benefits and Perks:**\n\nWhile the salary range for this position is currently unavailable, we offer a competitive compensation package that will be discussed during the interview process.  We are committed to investing in our employees and providing opportunities for growth and development.  Benefits may include [List potential benefits such as health insurance, paid time off, employee discounts, retirement plan, etc.  If none are offered, omit this section or state \"Benefits package to be discussed during the interview process\"].\n\n\n**Why Work Here?**\n\n[Hypermarket Name] is more than just a place to work – it's a community. We offer a supportive and collaborative environment where you can learn and grow your career.  We value our employees and are committed to providing a positive work experience.  Here are just a few reasons to join our team:\n\n* **Opportunity for Growth:**  We encourage internal promotions and provide opportunities for professional development.\n* **Teamwork:** We foster a collaborative and supportive work environment where everyone contributes.\n* **Making a Difference:** You'll be part of a team that provides essential services to the community.\n* **Convenient Location:**  Our hypermarket is conveniently located in Vannes.\n\n**Are you ready to join our team?**\n\nApply now!  We encourage you to submit your resume and cover letter outlining your relevant experience and qualifications.  We look forward to hearing from you!\n",
+    "employmentType": "full-time",
+    "shift": "day",
+    "salary": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "experience": "entry",
+    "storeType": "hypermarket",
+    "physicalRequirements": [],
+    "benefits": [],
+    "id": "a293dec4-704a-4f06-95a0-a884425246aa"
+  },
+  {
+    "title": "baker",
+    "department": "Bakery",
+    "location": "sao paulo",
+    "status": "draft",
+    "description": "**Bakery Associate - Hypermarket - São Paulo**\n\n**Join our Freshly Baked Team!**\n\nAre you passionate about the smell of freshly baked bread and the joy it brings?  Do you thrive in a fast-paced environment and love working with your hands?  Our Hypermarket Bakery Department in São Paulo is looking for enthusiastic and dedicated Bakery Associates to join our team!  This is a fantastic opportunity for entry-level candidates to gain experience in a high-volume bakery setting and develop valuable skills in the food industry. This is a full-time, day shift position.\n\n**About the Role:**\n\nAs a Bakery Associate, you'll be an integral part of our team, responsible for preparing, baking, and displaying a wide variety of delicious baked goods for our customers. You'll work alongside experienced bakers to learn the art of baking while ensuring the highest standards of quality and freshness.\n\n**Key Responsibilities:**\n\n* Assisting with the preparation of doughs, batters, fillings, and icings according to established recipes.\n* Measuring and mixing ingredients accurately.\n* Operating baking equipment such as ovens, mixers, and proofers.\n* Baking, decorating, and finishing a variety of breads, pastries, cakes, and other baked goods.\n* Maintaining a clean and organized work area, adhering to strict food safety and hygiene standards.\n* Packaging and labeling baked goods for sale.\n* Stocking and rotating products in display cases.\n* Providing excellent customer service by answering questions and assisting with selections.\n* Learning and adhering to all company policies and procedures.\n\n**Required Qualifications:**\n\n* Passion for baking and the food industry.\n* Basic math and measuring skills.\n* Ability to follow instructions and recipes accurately.\n* Excellent communication and interpersonal skills.\n* Ability to work well in a team environment.\n* Willingness to learn and adapt in a fast-paced setting.\n* Punctuality and reliability.\n* Portuguese fluency required.\n\n**Physical Requirements:**\n\n* Ability to stand for extended periods.\n* Ability to lift and carry up to 25 kg.\n* Ability to work in a warm environment.\n* Manual dexterity and hand-eye coordination.\n\n**Benefits and Perks:**\n\nWhile the specific salary range for this position is not listed in the provided prompt, we offer a competitive compensation package and the opportunity for growth within our company. Details will be discussed during the interview process.  We also offer:\n\n* Meal allowance\n* Transportation voucher (Vale Transporte)\n* Opportunities for professional development and advancement.\n* A friendly and supportive work environment.\n\n\n**Why You Should Work Here:**\n\nWe offer more than just a job; we offer a chance to be part of a dynamic and growing team.  You'll gain valuable experience in the food industry, learn from experienced professionals, and contribute to the success of our bakery department. We value our employees and are committed to providing a positive and rewarding work environment.  If you're looking for a challenging and fulfilling career in the baking industry, we encourage you to apply!\n\n\n**To Apply:**\n\n[Instructions on how to apply - e.g., Submit your resume and cover letter to [email address] or Apply online at [website address]]\n",
+    "employmentType": "full-time",
+    "shift": "day",
+    "salary": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD"
+    },
+    "experience": "entry",
+    "storeType": "hypermarket",
+    "physicalRequirements": [],
+    "benefits": [],
+    "id": "a2b1caed-3f2c-4c61-b313-5634c9b6c631"
+  }
+]
